@@ -1,0 +1,5 @@
+public static funA()
+{
+driver.findelement(By.id="java").sendkeys("username");
+system.out.println("userer name done");
+}
